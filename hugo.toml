@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://lxuan430.github.io/"
 languageCode = "zh-cn"
 title = "L1U的关于安全学习的博客"
 theme = "PaperMod"
