@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CTF on L1U的关于安全学习的博客</title>
+    <link>http://localhost:1313/tags/ctf/</link>
+    <description>Recent content in CTF on L1U的关于安全学习的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于这个博客</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;-关于这个博客&#34;&gt;👋 关于这个博客&lt;/h1&gt;
+&lt;p&gt;这个博客用于记录我的网络安全学习过程，包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CTF题解&lt;/li&gt;
+&lt;li&gt;流量分析与网络流量特征研究&lt;/li&gt;
+&lt;li&gt;安全工具使用与复现&lt;/li&gt;
+&lt;li&gt;学习笔记与技术总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-我的方向&#34;&gt;🎯 我的方向&lt;/h1&gt;
+&lt;p&gt;目前学习方向为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;网络与信息安全（研一）&lt;/li&gt;
+&lt;li&gt;CTF基础训练&lt;/li&gt;
+&lt;li&gt;网络流量分析&lt;/li&gt;
+&lt;li&gt;蓝队与安全运营方向探索&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-博客的目的&#34;&gt;📚 博客的目的&lt;/h1&gt;
+&lt;p&gt;建立这个博客的目的主要有三点：&lt;/p&gt;
+&lt;h3 id=&#34;1-记录学习过程&#34;&gt;1. 记录学习过程&lt;/h3&gt;
+&lt;p&gt;避免“学完就忘”，形成知识沉淀。&lt;/p&gt;
+&lt;h3 id=&#34;2-提升表达能力&#34;&gt;2. 提升表达能力&lt;/h3&gt;
+&lt;p&gt;把技术问题讲清楚，比“会做题”更重要。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-内容规划&#34;&gt;🔧 内容规划&lt;/h1&gt;
+&lt;p&gt;后续博客内容会分为几个模块：&lt;/p&gt;
+&lt;h2 id=&#34;-ctf题解&#34;&gt;🧠 CTF题解&lt;/h2&gt;
+&lt;h2 id=&#34;-流量分析&#34;&gt;🌐 流量分析&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;攻击流量识别&lt;/li&gt;
+&lt;li&gt;DDoS / 扫描行为分析&lt;/li&gt;
+&lt;li&gt;数据集分析（CIC-IDS等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-工具与实践&#34;&gt;🛠 工具与实践&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wireshark分析&lt;/li&gt;
+&lt;li&gt;Python安全脚本&lt;/li&gt;
+&lt;li&gt;日志分析工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-当前状态&#34;&gt;🚀 当前状态&lt;/h1&gt;
+&lt;p&gt;目前仍在基础学习阶段，目标是逐步从：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“会做题” → “会分析” → “能做安全工程实践”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;-总结&#34;&gt;📌 总结&lt;/h1&gt;
+&lt;p&gt;这个博客是一个长期记录平台，而不是一次性作品。&lt;/p&gt;
+&lt;p&gt;希望通过持续更新，逐步形成自己的安全知识体系。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
